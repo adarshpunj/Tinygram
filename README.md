@@ -1,5 +1,6 @@
 # Tinygram
 Instagram compressed in 4000 bytes of HTML document
+[Demo](https://htmlpreview.github.io/?https://github.com/adarshpunj/Tinygram/blob/master/tinygram.html)
 
 > This was inspired by the [St4kflow project](http://danlec.com/blog/stackoverflow-in-4096-bytes)
 
