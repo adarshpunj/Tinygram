@@ -4,7 +4,7 @@ Instagram compressed in 4000 bytes of HTML document
 > This was inspired by the [St4kflow project](http://danlec.com/blog/stackoverflow-in-4096-bytes)
 
 ## Features
-The features are limited to visiting profiles, exploring hashtags pages, etc. Photos feautred on a page can be zoomed in.
+The features are limited to visiting profiles, exploring hashtags pages, etc. Photos available on a page can be zoomed in.
 
 ## Size
 The total size of the document is 4066 bytes including CSS and JavaScript. 
